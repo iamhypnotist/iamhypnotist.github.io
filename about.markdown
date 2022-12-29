@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! My name is Roman and I'm an iOS engineer with over 11 years of experience. In addition to mobile app development, I have a strong interest in data analytics, statistics and decision intelligence.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I started this blog as a way to track my own learning progress and share my knowledge and experience with others in the field. While I'm primarily using this blog to document my personal journey, I hope that my insights and experiences may also be helpful to other engineers.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm based in Bangkok and I enjoy living here. In my spare time, I'm a huge coffee enthusiast and can often be found trying out different brews and roasts. I'm also a fan of Borussia Dortmund and enjoy following their matches.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Thank you for stopping by and I hope you find something helpful on my blog.
