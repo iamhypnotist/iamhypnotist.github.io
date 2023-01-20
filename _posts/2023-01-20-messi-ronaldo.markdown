@@ -10,7 +10,7 @@ Recently, while browsing online for new and interesting ways to analyze the game
 
 Being an avid learner of the R programming language, specifically in the areas of visualization and exploratory data analysis (EDA), I couldn't resist the opportunity to dive into this data and see what insights I could gain.
 
-To share my findings with others, I created a notebook in Google Colab that can be accessed here: [https://colab.research.google.com](https://colab.research.google.com/drive/1a7EyHOB5QXB_sUr7oN382d_GrCxsAf_0?usp=sharing). For those who are not familiar with notebooks, I wanted to give a couple of tips on how to navigate and view the notebook:
+To share my findings with others, I created a notebook in Google Colab that can be accessed here: [https://colab.research.google.com/drive/1a7EyHOB5QXB_sUr7oN382d_GrCxsAf_0?usp=sharing](https://colab.research.google.com/drive/1a7EyHOB5QXB_sUr7oN382d_GrCxsAf_0?usp=sharing). For those who are not familiar with notebooks, I wanted to give a couple of tips on how to navigate and view the notebook:
 
 - To view the plots and charts, you will need to run the command "Runtime - Run all".
 - To easily navigate through the notebook, you can use the table of contents located on the top left corner of the screen.
